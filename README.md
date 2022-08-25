@@ -16,7 +16,7 @@ Please raise an issue if there is anything mistake or missing.  :-)
 | ------------ | ------------------------------------------------------------ | ---- | ------------- | ------------------------------------------------------------ |
 | SVHF         | Seeing voices and hearing faces: Cross-modal biometric matching | 2018 | CVPR          | [code](http://www.robots.ox.ac.uk/~vgg/research/CMBiometrics)<br />,[model](https://github.com/a-nagrani/SVHF-Net) |
 | FVCME        | Face-voice matching using cross-modal embeddings             | 2018 | MM            | ❎                                                            |
-| Pins         | Learnable pins: Crossmodal embeddings for person identity    | 2018 | ECCV          | [code](http://www.robots.ox.ac.uk/~vgg/research/LearnablePins/) |
+| Pins         | Learnable pins: Crossmodal embeddings for person identity    | 2018 | ECCV          | [official](http://www.robots.ox.ac.uk/~vgg/research/LearnablePins/), [pytorch](https://github.com/my-yy/learnable_pins)|
 | LAFV         | On learning associations of faces and voices                 | 2018 | ACCV          | ❎                                                            |
 | SSNet        | Deep Latent Space Learning for Cross-modal Mapping of Audio and Visual Signals | 2019 | DICTA         | ❎                                                            |
 | DIMNet       | Disjoint mapping network for cross-modal matching of voices and faces | 2019 | ICLR          | ❎                                                            |
