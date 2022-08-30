@@ -29,7 +29,7 @@ Please raise an issue if there is anything mistake or missing.  :-)
 |              | Seeking the Shape of Sound- An Adaptive Framework for Learning Voice-Face Association | 2021 | CVPR          | [code](https://github.com/KID-7391/seeking-the-shape-of-sound) |
 |              | Cross-modal Speaker Veriﬁcation and Recognition: A Multilingual Perspective | 2021 | CVPR-Workshop | ❎                                                            |
 |              | Disentangled Representation Learning for Cross-Modal Biometric Matching | 2021 | TMM           | ❎                                                            |
-|              | Fusion and Orthogonal Projection for Improved Face-Voice Association | 2022 | ICASSP        | [code](https://github.com/msaadsaeed/FOP)                                                            |
+| FOP          | Fusion and Orthogonal Projection for Improved Face-Voice Association | 2022 | ICASSP        | [code](https://github.com/msaadsaeed/FOP)                                                            |
 | Self-Lifting | Self-Lifting: A Novel Framework for Unsupervised Voice-Face Association Learning | 2022 | ICMR          | [code](https://github.com/my-yy/sl_icmr2022)                 |
 | CMPC         | Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast | 2022 | IJCAI         | [code](https://github.com/Cocoxili/CMPC)                     |
 
