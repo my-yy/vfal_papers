@@ -25,7 +25,7 @@ Please raise an issue if there is anything mistake or missing.  :-)
 |              | Learning Discriminative Joint Embeddings for Efficient Face and Voice Association | 2020 | SIGIR         | ❎                                                            |
 |              | Hearing like Seeing: Improving Voice-Face Interactions and Associations via Adversarial Deep Semantic Matching Network | 2020 | MM            | ❎                                                            |
 | VFNet        | Audio-visual Speaker Recognition with a Cross-modal Discriminative Network | 2020 | Interspeech   | ❎                                                            |
-| AML          | Adversarial-Metric Learning for Audio-Visual Cross-Modal Matching | 2021 | TMM           | [code (partial)](https://github.com/MLanHu/AML)              |
+| AML          | Adversarial-Metric Learning for Audio-Visual Cross-Modal Matching | 2021 | TMM           | [official](https://github.com/MLanHu/AML), [copy](https://github.com/my-yy/AML_Copy) |
 |              | Seeking the Shape of Sound- An Adaptive Framework for Learning Voice-Face Association | 2021 | CVPR          | [code](https://github.com/KID-7391/seeking-the-shape-of-sound) |
 |              | Cross-modal Speaker Veriﬁcation and Recognition: A Multilingual Perspective | 2021 | CVPR-Workshop | ❎                                                            |
 |              | Disentangled Representation Learning for Cross-Modal Biometric Matching | 2021 | TMM           | ❎                                                            |
