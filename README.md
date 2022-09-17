@@ -33,5 +33,7 @@ Please raise an issue if there is anything mistake or missing.  :-)
 | Self-Lifting | Self-Lifting: A Novel Framework for Unsupervised Voice-Face Association Learning | 2022 | ICMR          | [code](https://github.com/my-yy/sl_icmr2022)                 |
 | CMPC         | Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast | 2022 | IJCAI         | [code](https://github.com/Cocoxili/CMPC)                     |
 
+## Other Resources (Chinese Language)
+[音脸关系学习论文串讲](https://zhuanlan.zhihu.com/p/565453692)
 
 
