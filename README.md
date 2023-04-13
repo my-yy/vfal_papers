@@ -33,10 +33,10 @@ Please raise an issue if there is anything mistake or missing.  :-)
 | CMPC         | Unsupervised Voice-Face Representation Learning by Cross-Modal Prototype Contrast | 2022 | IJCAI         | [code](https://github.com/Cocoxili/CMPC)                     |
 |              | Detach and Enhance: Learning Disentangled Cross-modal Latent Representation for Efficient Face-Voice Association and Matching | 2022 | ICDM          | ❎                                                            |
 |              | Looking and Hearing into Details: Dual-enhanced Siamese Adversarial Network for Audio-Visual Matching | 2022 | TMM           | ❎                                                            |
+| SBNet        | Single-branch Network for Multimodal Training                | 2023 | ICASSP        | [code](https://github.com/msaadsaeed/SBNet)                  |
 
 
 
 ## Other Resources (Chinese Language)
+
 [音脸关系学习论文串讲](https://zhuanlan.zhihu.com/p/565453692)
-
-
