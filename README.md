@@ -46,6 +46,3 @@ https://github.com/my-yy/vfal-eva
 - Easy to extend 💭
 
 
-## Other Resources (Chinese Language)
-
-[音脸关系学习论文串讲](https://zhuanlan.zhihu.com/p/565453692)
